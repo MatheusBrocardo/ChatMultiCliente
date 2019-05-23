@@ -1,0 +1,17 @@
+Amanda 92803
+Gleisson 92974
+Matheus 94155
+Nathanael 92738
+Nicolas 94912
+
+Projeto de chat multi client desenvolvido em python usando sockets. 
+
+Para executar: 
+1) Digite "python server.py" no terminal (Ubuntu)
+2) Digite "python client.py" no terminal (Ubuntu)
+3) Insira um nome de usuário 
+4) Conexão com o chat multi cliente concluida
+
+Observações: 
+1) O endereço localhost é definido por padrão
+2) Para encerrar a conexão com o chat multi cliente (apartir do usuário) envie a mensagem "sair"
